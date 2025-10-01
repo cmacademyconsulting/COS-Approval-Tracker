@@ -11,6 +11,6 @@ You may not:
 - Remove or alter the CM Academy branding, disclaimers, or ethical safeguards embedded in the code or documentation.
 - Use this project in any context that violates ethical standards, promotes misinformation, or undermines ESG/SDG principles.
 
-This license is designed to protect the intellectual property, ethical integrity, and audit-readiness of CM Academy outputs. For commercial use, partnership inquiries, or training access, please contact: cmacademy@yourdomain.com
+This license is designed to protect the intellectual property, ethical integrity, and audit-readiness of CM Academy outputs. For commercial use, partnership inquiries, or training access, please contact: cma.academy.consulting@gmail.com
 
 © 2025 CM Academy – A division of Complete Construction Management Developers Pvt. Ltd., Nepal.
